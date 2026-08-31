@@ -1,0 +1,1650 @@
+{
+  "generatedAt": "2026-08-31T14:52:17.020Z",
+  "bbox": [
+    24.67658,
+    42.100301,
+    24.809068,
+    42.186001
+  ],
+  "badgeBands": [
+    [
+      13,
+      13.6
+    ],
+    [
+      13.6,
+      14.4
+    ],
+    [
+      14.4,
+      15.5
+    ],
+    [
+      15.5,
+      16.8
+    ],
+    [
+      16.8,
+      22
+    ]
+  ],
+  "modes": [
+    {
+      "mode": "bus",
+      "label": "buses",
+      "color": "#0059a9"
+    }
+  ],
+  "lines": [
+    {
+      "line": "1",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "АПК",
+          "headsign": "АПК",
+          "variants": 1,
+          "tripCount": 71,
+          "stops": 30,
+          "lengthKm": 14.02,
+          "stats": {
+            "observations": 659,
+            "matched": 659,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.142037276101069,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Коматево",
+          "headsign": "Коматево",
+          "variants": 1,
+          "tripCount": 72,
+          "stops": 29,
+          "lengthKm": 16.26,
+          "stats": {
+            "observations": 794,
+            "matched": 794,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8069641665307004,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "4",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "А13",
+          "headsign": "А13",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 31,
+          "lengthKm": 11.91,
+          "stats": {
+            "observations": 597,
+            "matched": 597,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7269020493199392,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ПУ",
+          "headsign": "ПУ",
+          "variants": 1,
+          "tripCount": 51,
+          "stops": 30,
+          "lengthKm": 14.22,
+          "stats": {
+            "observations": 712,
+            "matched": 712,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.838879314685198,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "6",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Изгрев",
+          "headsign": "Изгрев",
+          "variants": 1,
+          "tripCount": 55,
+          "stops": 36,
+          "lengthKm": 16.88,
+          "stats": {
+            "observations": 846,
+            "matched": 846,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8324577771078359,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Прослав 1",
+          "headsign": "Прослав 1",
+          "variants": 1,
+          "tripCount": 53,
+          "stops": 34,
+          "lengthKm": 16.96,
+          "stats": {
+            "observations": 849,
+            "matched": 849,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.850059470159948,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "7",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Беломорски",
+          "headsign": "Беломорски",
+          "variants": 1,
+          "tripCount": 60,
+          "stops": 26,
+          "lengthKm": 13.65,
+          "stats": {
+            "observations": 684,
+            "matched": 684,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.819136511602631,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Рогошки гробища",
+          "headsign": "Рогошки гробища",
+          "variants": 1,
+          "tripCount": 60,
+          "stops": 28,
+          "lengthKm": 13.08,
+          "stats": {
+            "observations": 657,
+            "matched": 657,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9783722197821523,
+            "roundaboutSegs": 17,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "9",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Завод Гагарин",
+          "headsign": "Завод Гагарин",
+          "variants": 1,
+          "tripCount": 66,
+          "stops": 30,
+          "lengthKm": 12.85,
+          "stats": {
+            "observations": 644,
+            "matched": 644,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7402779468210978,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Тракия А12",
+          "headsign": "Тракия А12",
+          "variants": 1,
+          "tripCount": 66,
+          "stops": 26,
+          "lengthKm": 14.65,
+          "stats": {
+            "observations": 698,
+            "matched": 698,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7366556088718361,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "10",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "А13",
+          "headsign": "А13",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 31,
+          "lengthKm": 15.56,
+          "stats": {
+            "observations": 778,
+            "matched": 778,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7372998517213873,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Юндола",
+          "headsign": "Юндола",
+          "variants": 1,
+          "tripCount": 43,
+          "stops": 31,
+          "lengthKm": 18.82,
+          "stats": {
+            "observations": 943,
+            "matched": 943,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7973638145297972,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "11",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Биомашиностроене",
+          "headsign": "Биомашиностроене",
+          "variants": 1,
+          "tripCount": 58,
+          "stops": 28,
+          "lengthKm": 15.01,
+          "stats": {
+            "observations": 752,
+            "matched": 752,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7728200124704312,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Митница",
+          "headsign": "Митница",
+          "variants": 1,
+          "tripCount": 58,
+          "stops": 28,
+          "lengthKm": 13.19,
+          "stats": {
+            "observations": 646,
+            "matched": 646,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.690304427767101,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "12",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Марица",
+          "headsign": "Марица",
+          "variants": 1,
+          "tripCount": 73,
+          "stops": 23,
+          "lengthKm": 11.56,
+          "stats": {
+            "observations": 578,
+            "matched": 578,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7428274249725437,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Юндола",
+          "headsign": "Юндола",
+          "variants": 1,
+          "tripCount": 74,
+          "stops": 19,
+          "lengthKm": 9.71,
+          "stats": {
+            "observations": 487,
+            "matched": 487,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.770903825464396,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "15",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Марица",
+          "headsign": "Марица",
+          "variants": 1,
+          "tripCount": 54,
+          "stops": 29,
+          "lengthKm": 13.13,
+          "stats": {
+            "observations": 659,
+            "matched": 659,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8177379933990252,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Прослав 1",
+          "headsign": "Прослав 1",
+          "variants": 1,
+          "tripCount": 55,
+          "stops": 27,
+          "lengthKm": 16.3,
+          "stats": {
+            "observations": 817,
+            "matched": 817,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.813925540578681,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "16",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Гагарин",
+          "headsign": "Гагарин",
+          "variants": 1,
+          "tripCount": 52,
+          "stops": 22,
+          "lengthKm": 11.54,
+          "stats": {
+            "observations": 576,
+            "matched": 576,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.137452257426537,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Южен",
+          "headsign": "Южен",
+          "variants": 1,
+          "tripCount": 51,
+          "stops": 21,
+          "lengthKm": 9.62,
+          "stats": {
+            "observations": 482,
+            "matched": 482,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8179693953530711,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "17",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "А13 ЖК Тракия",
+          "headsign": "А13 ЖК Тракия",
+          "variants": 1,
+          "tripCount": 50,
+          "stops": 40,
+          "lengthKm": 21.73,
+          "stats": {
+            "observations": 1070,
+            "matched": 1070,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7342518968460605,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Данъчното",
+          "headsign": "Данъчното",
+          "variants": 1,
+          "tripCount": 51,
+          "stops": 47,
+          "lengthKm": 24.27,
+          "stats": {
+            "observations": 1214,
+            "matched": 1214,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.843713877239445,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "18",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ПУ",
+          "headsign": "ПУ",
+          "variants": 2,
+          "tripCount": 2,
+          "stops": 29,
+          "lengthKm": 16.41,
+          "stats": {
+            "observations": 821,
+            "matched": 821,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.803620985283555,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Устрем",
+          "headsign": "Устрем",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 30,
+          "lengthKm": 14.36,
+          "stats": {
+            "observations": 684,
+            "matched": 684,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7700253909789825,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Устрем / Пожарната/",
+          "headsign": "Устрем / Пожарната/",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 30,
+          "lengthKm": 14.36,
+          "stats": {
+            "observations": 684,
+            "matched": 684,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7700253909789825,
+            "roundaboutSegs": 30,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Хангарите",
+          "headsign": "Хангарите",
+          "variants": 1,
+          "tripCount": 50,
+          "stops": 30,
+          "lengthKm": 17.91,
+          "stats": {
+            "observations": 897,
+            "matched": 897,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8104924991516302,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Хангарите (Пожарна)",
+          "headsign": "Хангарите (Пожарна)",
+          "variants": 1,
+          "tripCount": 2,
+          "stops": 30,
+          "lengthKm": 17.91,
+          "stats": {
+            "observations": 897,
+            "matched": 897,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8104924991516302,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Цар Симеон",
+          "headsign": "Цар Симеон",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 29,
+          "lengthKm": 13.86,
+          "stats": {
+            "observations": 659,
+            "matched": 659,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7853733633263151,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "20",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Коматево",
+          "headsign": "Коматево",
+          "variants": 1,
+          "tripCount": 55,
+          "stops": 27,
+          "lengthKm": 12.84,
+          "stats": {
+            "observations": 644,
+            "matched": 644,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7328740277758279,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "ПУ",
+          "headsign": "ПУ",
+          "variants": 1,
+          "tripCount": 55,
+          "stops": 28,
+          "lengthKm": 14.69,
+          "stats": {
+            "observations": 737,
+            "matched": 737,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7796348586976216,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "21",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Марица",
+          "headsign": "Марица",
+          "variants": 1,
+          "tripCount": 67,
+          "stops": 35,
+          "lengthKm": 16.87,
+          "stats": {
+            "observations": 805,
+            "matched": 805,
+            "noCandidates": 0,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 56,
+            "meanError": 2.2629460100387924,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Тракия А12",
+          "headsign": "Тракия А12",
+          "variants": 1,
+          "tripCount": 66,
+          "stops": 32,
+          "lengthKm": 14.58,
+          "stats": {
+            "observations": 716,
+            "matched": 716,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8062802689713395,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "22",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Кръговото на ДК",
+          "headsign": "Кръговото на ДК",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 14,
+          "lengthKm": 7.11,
+          "stats": {
+            "observations": 357,
+            "matched": 357,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8779283962040951,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Младежка",
+          "headsign": "Младежка",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 15,
+          "lengthKm": 9.01,
+          "stats": {
+            "observations": 417,
+            "matched": 417,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9440251245110671,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Пречиствателна станция",
+          "headsign": "Пречиствателна станция",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 16,
+          "lengthKm": 9.39,
+          "stats": {
+            "observations": 453,
+            "matched": 453,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8653692028107172,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "24",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Прослав",
+          "headsign": "Прослав",
+          "variants": 1,
+          "tripCount": 43,
+          "stops": 48,
+          "lengthKm": 25.09,
+          "stats": {
+            "observations": 1257,
+            "matched": 1257,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8435558724970789,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Устрем",
+          "headsign": "Устрем",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 44,
+          "lengthKm": 23.57,
+          "stats": {
+            "observations": 1112,
+            "matched": 1112,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8125567885889993,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "25",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "АПК",
+          "headsign": "АПК",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 29,
+          "lengthKm": 14.97,
+          "stats": {
+            "observations": 670,
+            "matched": 670,
+            "noCandidates": 0,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 56,
+            "meanError": 2.332424673743771,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Тракия A12",
+          "headsign": "Тракия A12",
+          "variants": 1,
+          "tripCount": 40,
+          "stops": 28,
+          "lengthKm": 14.03,
+          "stats": {
+            "observations": 669,
+            "matched": 669,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9096364805045214,
+            "roundaboutSegs": 29,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "26",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Изгрев",
+          "headsign": "Изгрев",
+          "variants": 1,
+          "tripCount": 78,
+          "stops": 31,
+          "lengthKm": 12.2,
+          "stats": {
+            "observations": 612,
+            "matched": 612,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8358377829721664,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Юндола",
+          "headsign": "Юндола",
+          "variants": 1,
+          "tripCount": 78,
+          "stops": 26,
+          "lengthKm": 11.77,
+          "stats": {
+            "observations": 590,
+            "matched": 590,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8801715508046826,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "27",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЗХА Родина",
+          "headsign": "ЗХА Родина",
+          "variants": 1,
+          "tripCount": 57,
+          "stops": 29,
+          "lengthKm": 12.68,
+          "stats": {
+            "observations": 635,
+            "matched": 635,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7817487609658849,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Коматево",
+          "headsign": "Коматево",
+          "variants": 1,
+          "tripCount": 57,
+          "stops": 25,
+          "lengthKm": 13.72,
+          "stats": {
+            "observations": 687,
+            "matched": 687,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7808836044699128,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "29",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Тракия А12",
+          "headsign": "Тракия А12",
+          "variants": 1,
+          "tripCount": 68,
+          "stops": 27,
+          "lengthKm": 12.33,
+          "stats": {
+            "observations": 581,
+            "matched": 581,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8724652604209555,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Юндола",
+          "headsign": "Юндола",
+          "variants": 1,
+          "tripCount": 68,
+          "stops": 28,
+          "lengthKm": 12.35,
+          "stats": {
+            "observations": 619,
+            "matched": 619,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.886669650945962,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "36",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Изгрев",
+          "headsign": "Изгрев",
+          "variants": 1,
+          "tripCount": 47,
+          "stops": 31,
+          "lengthKm": 12.99,
+          "stats": {
+            "observations": 636,
+            "matched": 636,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.159748613982992,
+            "roundaboutSegs": 11,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Южен",
+          "headsign": "Южен",
+          "variants": 1,
+          "tripCount": 46,
+          "stops": 29,
+          "lengthKm": 14.87,
+          "stats": {
+            "observations": 704,
+            "matched": 704,
+            "noCandidates": 0,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 56,
+            "meanError": 2.3551631737046166,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "37",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ЕАЗ",
+          "headsign": "ЕАЗ",
+          "variants": 1,
+          "tripCount": 54,
+          "stops": 32,
+          "lengthKm": 13.8,
+          "stats": {
+            "observations": 691,
+            "matched": 691,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7470594720087498,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Юндола",
+          "headsign": "Юндола",
+          "variants": 1,
+          "tripCount": 54,
+          "stops": 28,
+          "lengthKm": 15.33,
+          "stats": {
+            "observations": 768,
+            "matched": 768,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8125806054186804,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "44",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ПУ",
+          "headsign": "ПУ",
+          "variants": 2,
+          "tripCount": 56,
+          "stops": 26,
+          "lengthKm": 14.91,
+          "stats": {
+            "observations": 750,
+            "matched": 750,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9703105816381543,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Устрем",
+          "headsign": "Устрем",
+          "variants": 1,
+          "tripCount": 51,
+          "stops": 26,
+          "lengthKm": 13.76,
+          "stats": {
+            "observations": 639,
+            "matched": 639,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.755110822141129,
+            "roundaboutSegs": 1,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Цар Симеон",
+          "headsign": "Цар Симеон",
+          "variants": 1,
+          "tripCount": 13,
+          "stops": 25,
+          "lengthKm": 11.79,
+          "stats": {
+            "observations": 555,
+            "matched": 555,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7581533465238757,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "66",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Прослав",
+          "headsign": "Прослав",
+          "variants": 1,
+          "tripCount": 55,
+          "stops": 43,
+          "lengthKm": 24.78,
+          "stats": {
+            "observations": 1201,
+            "matched": 1201,
+            "noCandidates": 0,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 56,
+            "meanError": 2.1461367684193435,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Тракия А12",
+          "headsign": "Тракия А12",
+          "variants": 1,
+          "tripCount": 56,
+          "stops": 40,
+          "lengthKm": 20.42,
+          "stats": {
+            "observations": 1008,
+            "matched": 1008,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8430780878123247,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "93",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Автоелектроника",
+          "headsign": "Автоелектроника",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 30,
+          "lengthKm": 13.85,
+          "stats": {
+            "observations": 665,
+            "matched": 665,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7615691541802108,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Стъкларски завод",
+          "headsign": "Стъкларски завод",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 25,
+          "lengthKm": 16.61,
+          "stats": {
+            "observations": 792,
+            "matched": 792,
+            "noCandidates": 0,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 56,
+            "meanError": 2.3119511305978735,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Стъкларски завод през Радиново",
+          "headsign": "Стъкларски завод през Радиново",
+          "variants": 1,
+          "tripCount": 15,
+          "stops": 26,
+          "lengthKm": 18,
+          "stats": {
+            "observations": 863,
+            "matched": 863,
+            "noCandidates": 0,
+            "viterbiBreaks": 3,
+            "bridged": 0,
+            "rawStretchCount": 3,
+            "rawMeters": 56,
+            "meanError": 2.2589262587841965,
+            "roundaboutSegs": 62,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "от Радиново към Автоелектроника",
+          "headsign": "от Радиново към Автоелектроника",
+          "variants": 1,
+          "tripCount": 15,
+          "stops": 26,
+          "lengthKm": 13.76,
+          "stats": {
+            "observations": 661,
+            "matched": 661,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7517397919154116,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "99",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Гара Тракия",
+          "headsign": "Гара Тракия",
+          "variants": 1,
+          "tripCount": 44,
+          "stops": 29,
+          "lengthKm": 17.61,
+          "stats": {
+            "observations": 879,
+            "matched": 879,
+            "noCandidates": 0,
+            "viterbiBreaks": 2,
+            "bridged": 0,
+            "rawStretchCount": 2,
+            "rawMeters": 39,
+            "meanError": 1.9292985142941608,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Колелото на Цар Симеон",
+          "headsign": "Колелото на Цар Симеон",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 27,
+          "lengthKm": 16.19,
+          "stats": {
+            "observations": 808,
+            "matched": 808,
+            "noCandidates": 0,
+            "viterbiBreaks": 2,
+            "bridged": 0,
+            "rawStretchCount": 2,
+            "rawMeters": 39,
+            "meanError": 1.9360471864952074,
+            "roundaboutSegs": 9,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Марица",
+          "headsign": "Марица",
+          "variants": 1,
+          "tripCount": 51,
+          "stops": 26,
+          "lengthKm": 13.58,
+          "stats": {
+            "observations": 681,
+            "matched": 681,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.801371744075602,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "113",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "КАТ",
+          "headsign": "КАТ",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 29,
+          "lengthKm": 15.77,
+          "stats": {
+            "observations": 790,
+            "matched": 790,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8156033014042832,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Централна Гара",
+          "headsign": "Централна Гара",
+          "variants": 1,
+          "tripCount": 42,
+          "stops": 23,
+          "lengthKm": 11.73,
+          "stats": {
+            "observations": 588,
+            "matched": 588,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.729153887788429,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "116",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "Изгрев",
+          "headsign": "Изгрев",
+          "variants": 1,
+          "tripCount": 64,
+          "stops": 26,
+          "lengthKm": 14.81,
+          "stats": {
+            "observations": 726,
+            "matched": 726,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8181646767628044,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Митница",
+          "headsign": "Митница",
+          "variants": 1,
+          "tripCount": 62,
+          "stops": 26,
+          "lengthKm": 13.15,
+          "stats": {
+            "observations": 644,
+            "matched": 644,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7884190558483184,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    },
+    {
+      "line": "222",
+      "mode": "bus",
+      "color": "#0059a9",
+      "dirs": [
+        {
+          "dir": "ПУ",
+          "headsign": "ПУ",
+          "variants": 1,
+          "tripCount": 61,
+          "stops": 31,
+          "lengthKm": 14.55,
+          "stats": {
+            "observations": 729,
+            "matched": 729,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8382129656996307,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Прослав",
+          "headsign": "Прослав",
+          "variants": 1,
+          "tripCount": 61,
+          "stops": 29,
+          "lengthKm": 12.33,
+          "stats": {
+            "observations": 618,
+            "matched": 618,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8272093193030206,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ]
+    }
+  ]
+}
